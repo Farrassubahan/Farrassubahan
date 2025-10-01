@@ -32,5 +32,6 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 
 ---
 
-⭐️ From [@azdharsyahputra](https://github.com/Farrassubahan)
+⭐️ From [@Farrassubahan](https://github.com/Farrassubahan)
+
 
