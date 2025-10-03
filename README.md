@@ -12,10 +12,9 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 
 ### 📊 GitHub Stats
 
-![Ajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrassubahan&show_icons=true&theme=tokyonight&count_private=true)
-
+![Ras's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrassubahan&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrassubahan&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrassubahan&theme=tokyonight" width="77%"/>
 ---
 
 ### 🧰 Tech Stack
@@ -33,5 +32,6 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 ---
 
 ⭐️ From [@Farrassubahan](https://github.com/Farrassubahan)
+
 
 
