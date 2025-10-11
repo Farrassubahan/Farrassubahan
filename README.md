@@ -23,7 +23,7 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 ### 🧰 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php,laravel,git,github,angular,python,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php,laravel,git,github,angular,python,ts,bootstrape" />
 </p>
 
 ---
@@ -35,6 +35,7 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 ---
 
 ⭐️ From [@Farrassubahan](https://github.com/Farrassubahan)
+
 
 
 
