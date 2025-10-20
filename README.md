@@ -17,7 +17,7 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farrassubahan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrassubahan&theme=tokyonight" width="77%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrassubahan&theme=tokyonight" width="77%"/> -->
 ---
 
 ### 🧰 Tech Stack
@@ -35,6 +35,7 @@ I'm an **Informatics student** who mainly works with **Laravel** to build web ap
 ---
 
 ⭐️ From [@Farrassubahan](https://github.com/Farrassubahan)
+
 
 
 
